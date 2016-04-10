@@ -7,43 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ad6b635-3006-4bcd-9eb0-8acd71aa70f8" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\.idea\gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\.idea\runConfigurations.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\androidTest\java\com\cse110\lab2\ApplicationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\layout\activity_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\layout\content_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\menu\menu_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\values-v21\styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\values-w820dp\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\values\colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\values\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\values\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\main\res\values\styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\app\src\test\java\com\cse110\lab2\ExampleUnitTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\gradle\wrapper\gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\gradle\wrapper\gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\gradlew" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Aaron\AndroidStudioProjects\Lab2\settings.gradle" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/cse110/lab2/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/cse110/lab2/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Lab2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,12 +39,9 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cse110/lab2/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33887044">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="e#766#1034#0" expanded="true" />
-                <element signature="e#1033#1034#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.31063122">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1991,12 +1953,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cse110/lab2/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33887044">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#766#1034#0" expanded="true" />
-            <element signature="e#1033#1034#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.31063122">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
